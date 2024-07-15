@@ -1,4 +1,7 @@
+/** @format */
+
 import styles from './GlobalViewer.module.less';
+
 import { useRef } from 'react';
 import { useMount } from 'ahooks';
 export default () => {
